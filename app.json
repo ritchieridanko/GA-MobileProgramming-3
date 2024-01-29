@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "Numberz",
-    "slug": "Numberz"
+    "slug": "Numberz",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "82437d2a-3819-471b-9edf-0dfde523d805"
+      }
+    },
+    "android": {
+      "package": "com.ritchieridanko.Numberz"
+    }
   }
 }
